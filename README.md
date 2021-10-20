@@ -1,5 +1,5 @@
 # Onshape2021
-[this directory of all students!](https://github.com/chssigma/Class_Accounts)
+[This directory of all students!](https://github.com/chssigma/Class_Accounts)
 
 ## Table of Contents
 * [Table of Contents](#TableOfContents)
