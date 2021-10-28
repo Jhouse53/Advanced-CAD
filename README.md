@@ -32,3 +32,4 @@ We made a actual lego! Not just one as well using configurations we can make the
 <img src="https://github.com/Jhouse53/Advanced-CAD/blob/main/Images/SmoothLegoDuck.PNG?raw=true" width="300">
 
 ### Reflection
+I really like this assingment because I got to use configurations which I have never used before. I think configurations will be very helpfull in the future. The fact that you can have that sort of variability is very usefull. I would give this a 89% on Rotton Filaments.
